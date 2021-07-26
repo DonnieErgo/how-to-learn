@@ -1,18 +1,18 @@
-# Landing page project "Learn how to learn".
-Contains some usefull info on procrastination, learning technics and more.
+# Лендинг по проекту "Научиться учиться".
+Сайт содержит различную информацию по техникам обучения и о прокрастинации, а также интересные видео на тему.
 
 ---
 
-### Tech stack and features:
+### Стэк и фичи:
 - CSS
 - HTML
-- Flexbox
-- Structured using BEM methodology
-- CSS animations
+- Файлы и папки структурированы в соответствии с методологией БЭМ
+- Флексбокс
+- CSS-анимации
 
 ---
 
-### Future improvement planned
-- Grid implementation
-- Further code refactoring
-- Adaptive design
+### Запланированные улучшения:
+- Использование grid
+- Адаптивный дизайн
+- Дальнейший рефакторинг кода
