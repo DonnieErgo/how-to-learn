@@ -1,10 +1,12 @@
 .two-columns__brief{
   align-self: flex-start;
   width: 175px;
-  margin-top: 0;
+  margin: 0;
   line-height: 1.2;
   font-size: 18px;
   color: #2f80ed;
   font-style: normal;
   font-weight: normal;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }

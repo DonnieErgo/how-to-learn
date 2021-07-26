@@ -9,4 +9,6 @@
   font-size: 18px;
   font-weight: normal;
   z-index: 3;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }

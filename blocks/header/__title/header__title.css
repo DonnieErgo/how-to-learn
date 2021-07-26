@@ -8,4 +8,6 @@
   margin: 0;
   margin-left: 64px;
   z-index: 3;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
